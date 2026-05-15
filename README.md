@@ -100,14 +100,6 @@ The analysis highlights a clear trade-off between biodiversity protection and re
 
 ## 📁 Repository Structure
 
-```text
-.
-├── notebooks/        # Main analysis notebooks
-├── figures/          # Generated figures and plots
-├── scripts/          # Helper functions and utilities
-└── README.md
-
-## Repository Structure
 - `notebooks/` – Main analysis notebook (`energy_mod_BE.ipynb`)
 - `scripts/` – Helper functions
 - `figures/` – Generated plots
